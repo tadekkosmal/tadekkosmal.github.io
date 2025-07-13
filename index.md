@@ -11,7 +11,7 @@ I'm a PhD. student at Virginia Tech in the [DREAMS Lab](https://dreams.mii.vt.ed
 advised by Professor [Christopher Williams](https://me.vt.edu/people/faculty/williams-christopher.html).
 I'm currently completing my PhD. on robotic Additive Manufacturing (AM). 
 
-I also am a [SMART Scholar](https://www.smartscholarship.org/smart) with the U.S. Navy.
+I am also a [SMART Scholar](https://www.smartscholarship.org/smart) with the U.S. Navy.
 
 I received my Bachelor's degree in
 [Mechanical Engineering](https://me.vt.edu/) with an
