@@ -21,17 +21,16 @@ at Virginia Tech.
 
 ## Projects & Random
 
-_Checkout more of my projects and random blogs in the link above!_
+_Checkout more of my projects in the link above_
 
 <figure class="half">
-	<img src="/assets/images/index_images/subT.gif">
-	<img src="/assets/images/index_images/washbot_demo.gif">
-	<figcaption>Left: DARPA Subterranean Challenge | Right: Washbot Capstone 
-                Project</figcaption>
+	<img src="/assets/images/AM_class_drone/image3.jpeg">
+	<img src="/assets/images/AM_class_drone/conformal_reinf.gif">
+	<figcaption>Left: Generative Designed Multi-Axis Quad | Right: Conformal Reinforcement Printing</figcaption>
 </figure>
 
 <figure>
-	<img src="/assets/images/index_images/tptio.gif">
-	<figcaption>TP-TIO: A Robust Thermal-Inertial Odometry with Deep ThermalPoint</figcaption>
+	<img src="/assets/images/layerwise_error/hybrid_1cu.jpg">
+	<figcaption> Hybrid AM at work!</figcaption>
 </figure>
 
