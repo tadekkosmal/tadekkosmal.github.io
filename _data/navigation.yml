@@ -1,0 +1,7 @@
+main:
+  - title: "Random"
+    url: /random/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
