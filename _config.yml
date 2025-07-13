@@ -38,10 +38,10 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Tadek Kosmal"
-  avatar           : "/assets/images/avatar.jpeg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "PhD. Student  @ Virginia Tech \n\n"
   location         : "Blacksburg, VA"
-  email            : "tadekk7@vt.com"
+  email            : "tadekk@vt.edu"
   uri              : "http://tadekosmal.github.io"
   github           : "tadekkosmal"
 
