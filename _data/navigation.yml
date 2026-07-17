@@ -1,7 +1,9 @@
 main:
-  - title: "Random"
-    url: /random/
-  - title: "Projects"
+  - title: "about"
+    url: /
+  - title: "projects"
     url: /projects/
-  - title: "Resume"
+  - title: "notes"
+    url: /random/
+  - title: "cv"
     url: /resume/
