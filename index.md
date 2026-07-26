@@ -37,7 +37,7 @@ I am also a [SMART Scholar](https://www.smartscholarship.org/smart) with the U.S
 <div class="featured-list">
   <article class="featured-row">
     <div class="featured-media">
-      <img src="/assets/images/layerwise_error/hybrid_1cu.jpg" alt="Hybrid additive and subtractive manufacturing system" loading="lazy">
+      <img src="./assets/images/layerwise_error/hybrid_1cu.jpg" alt="Hybrid additive and subtractive manufacturing system" loading="lazy">
     </div>
     <div>
       <p class="eyebrow">Hybrid manufacturing</p>
@@ -49,7 +49,7 @@ I am also a [SMART Scholar](https://www.smartscholarship.org/smart) with the U.S
 
   <article class="featured-row">
     <div class="featured-media">
-      <img src="/assets/images/AM_class_drone/image3.jpeg" alt="Generatively designed multi-axis quadcopter structure" loading="lazy">
+      <img src="./assets/images/AM_class_drone/image3.jpeg" alt="Generatively designed multi-axis quadcopter structure" loading="lazy">
     </div>
     <div>
       <p class="eyebrow">Multi-axis AM</p>
@@ -61,7 +61,7 @@ I am also a [SMART Scholar](https://www.smartscholarship.org/smart) with the U.S
 
   <article class="featured-row">
     <div class="featured-media">
-      <img src="/assets/images/AM_class_drone/conformal_reinf.gif" alt="Conformal reinforcement printing process" loading="lazy">
+      <img src="./assets/images/AM_class_drone/conformal_reinf.gif" alt="Conformal reinforcement printing process" loading="lazy">
     </div>
     <div>
       <p class="eyebrow">Conformal printing</p>

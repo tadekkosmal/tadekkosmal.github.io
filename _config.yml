@@ -18,7 +18,7 @@ author:
   avatar: "/assets/images/tadekk_cropped.jpg"
 
 # Update this path if your PDF uses a different filename.
-resume_pdf: "/assets/documents/Tadek_Kosmal_Resume.pdf"
+resume_pdf: "./assets/documents/resume/resume_tadekk.pdf"
 
 # Jekyll
 markdown: kramdown
