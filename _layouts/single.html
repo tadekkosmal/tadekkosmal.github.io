@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="article-page">
+  <header class="article-header">
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {% if page.date %}
+      <p class="article-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time>
+        {% if page.read_time %} · {% assign words = content | number_of_words %}{{ words | divided_by: 200 | plus: 1 }} min read{% endif %}
+      </p>
+    {% endif %}
+  </header>
+
+  {% assign hero = page.header.image | default: page.header.overlay_image %}
+  {% if hero %}
+    <figure class="article-hero">
+      <img src="{{ hero | relative_url }}" alt="{{ page.header.caption | default: page.title | escape }}">
+      {% if page.header.caption %}<figcaption>{{ page.header.caption }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
+
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>
